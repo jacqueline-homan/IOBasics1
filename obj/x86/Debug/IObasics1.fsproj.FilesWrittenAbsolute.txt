@@ -1,0 +1,5 @@
+/home/jacqueline/Projects/IObasics1/IObasics1/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacqueline/Projects/IObasics1/IObasics1/bin/Debug/IObasics1.exe.mdb
+/home/jacqueline/Projects/IObasics1/IObasics1/bin/Debug/IObasics1.exe
+/home/jacqueline/Projects/IObasics1/IObasics1/obj/x86/Debug/IObasics1.exe
+/home/jacqueline/Projects/IObasics1/IObasics1/obj/x86/Debug/IObasics1.exe.mdb
